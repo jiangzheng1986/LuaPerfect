@@ -26,6 +26,6 @@ LuaPerfect会自动列出系统中已有的带Lua解决方案的Unity/Unreal工�
 
 联系我们
 --------
-Author:   蒋政 AndersJiang (andersjiang@tencent.com)  
-Director: 王杨军 YoungWang (youngwang@tencent.com)  
+Author:   Anders (672250695@qq.com)  
+Director: Young
 QQ群:     LuaPerfect官方群(932801740)
