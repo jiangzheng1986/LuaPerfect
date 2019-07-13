@@ -28,4 +28,5 @@ LuaPerfect会自动列出系统中已有的带Lua解决方案的Unity/Unreal工�
 --------
 Author:   Anders (672250695@qq.com)  
 Director: Young
-QQ群:     LuaPerfect官方群(932801740)
+QQ群:     LuaPerfect官方群([932801740](https://jq.qq.com/?_wv=1027&k=54bnLYF))
+官方网站: [https://luaperfect.net](https://luaperfect.net)
