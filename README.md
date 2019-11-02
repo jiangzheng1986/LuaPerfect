@@ -33,3 +33,7 @@ Director: Young
 QQ群:     LuaPerfect官方群([932801740](https://jq.qq.com/?_wv=1027&k=54bnLYF))
 
 官方网站: [https://luaperfect.net](https://luaperfect.net)
+
+关于被某杀毒软件误杀的说明
+--------------------------
+LuaPerfect经腾讯电脑管家查杀确认无病毒，建议被某杀毒软件误杀的朋友更换杀毒软件。（本说明非广告）
