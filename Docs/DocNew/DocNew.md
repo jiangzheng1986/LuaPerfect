@@ -51,7 +51,7 @@ LuaPerfect GitHub仓库([https://github.com/jiangzheng1986/LuaPerfect](https://g
 
 ### 添加Lua目录
 
-对于大型工程，游戏里的资源文件以十万计，LuaPerfect默认会打开 Assets文件夹。但是在Project视图里直接指定Lua目录是一种更为高效的做法。可以在Project界面的LuaFolders项点击右键添加Lua目录，添加完自己的Lua目录之后就可以从工程中移除Assets目录了。也可以直接在资源管理器中将需要添加的目录拖动至Project界面。
+对于大型工程，游戏里的资源文件以十万计，LuaPerfect默认会打开 Assets文件夹。但是在Project视图里直接指定Lua目录是一种更为高效的做法。可以在Project界面的LuaFolders项点击右键添加Lua目录，添加完自己的Lua目录之后就可以从工程中移除Assets目录了(移除的意思是选中Assets目录，右键菜单选择Close Source Folder)。也可以直接在资源管理器中将需要添加的目录拖动至Project界面。
 
 ![LuaFolders.png](images/LuaFolders.png "Lua源文件夹列表")
 
